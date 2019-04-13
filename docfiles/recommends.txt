@@ -1,0 +1,7 @@
+Our recommended software/projects for you:
+
+* Gencode - https://sparrdrem.github.io/gencode
+* IExpress on ReactOS - https://github.com/SparrOSDeveloperTeam-Win/IExpress-ReactOS-Qi120983
+* Homeware: A new ROM site - https://sparrdrem.github.io/homeware
+* Commodore OS Vision II - https://sparrosdeveloperteam.github.io/COS
+* Project Gossamer - https://pjgossamer.github.io
