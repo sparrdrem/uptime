@@ -21,7 +21,7 @@ MinVersion=6.1
 SetupIconFile=icofiles\setup.ico
 UninstallIconFile=program\unins000.ico
 WizardImageFile=bmpfiles\wizardimagefile.bmp
-WizardSmallImageFile=bmpfiles\smallwizardimage.gif
+WizardSmallImageFile=bmpfiles\smallwizardimage.bmp
 InfoBeforeFile=docfiles\recommends.txt
 
 [Languages]

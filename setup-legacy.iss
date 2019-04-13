@@ -17,12 +17,12 @@ DefaultGroupName=UPTIME
 DisableWelcomePage=No
 DisableStartupPrompt=No
 LicenseFile=docfiles\license.rtf
-MinVersion=4.0
+MinVersion=5.0
 OnlyBelowVersion=6.1
 SetupIconFile=icofiles\setup.ico
 UninstallIconFile=program\unins000.ico
 WizardImageFile=bmpfiles\wizardimagefile.bmp
-WizardSmallImageFile=bmpfiles\smallwizardimage.gif
+WizardSmallImageFile=bmpfiles\smallwizardimage.bmp
 InfoBeforeFile=docfiles\recommends.txt
 
 [Languages]
